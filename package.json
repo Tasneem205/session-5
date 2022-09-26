@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {"start": "nodemon main.js"},
+  "name": "pro",
+  "version": "1.0.0",
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
